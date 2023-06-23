@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chordfinder/static/css/main.3602453f.css",
+    "main.js": "/chordfinder/static/js/main.39ff459f.js",
+    "static/js/787.9e0bdd98.chunk.js": "/chordfinder/static/js/787.9e0bdd98.chunk.js",
+    "index.html": "/chordfinder/index.html",
+    "main.3602453f.css.map": "/chordfinder/static/css/main.3602453f.css.map",
+    "main.39ff459f.js.map": "/chordfinder/static/js/main.39ff459f.js.map",
+    "787.9e0bdd98.chunk.js.map": "/chordfinder/static/js/787.9e0bdd98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3602453f.css",
+    "static/js/main.39ff459f.js"
+  ]
+}
