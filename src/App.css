@@ -1,0 +1,9 @@
+input[type="text"] {
+  font-size: 20px; /* increases font size */
+  padding: 5px; /* adds space around the text */
+  width: 300px; /* set a specific width */
+}
+#chordOutput {
+  font-size: 20px;
+  padding: 5px;
+}		
